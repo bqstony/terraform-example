@@ -1,1 +1,6 @@
 iot-edge/out.txt
+.env
+# run terraform get!
+**/**/.terraform
+**/**/terraform.tfvars
+
